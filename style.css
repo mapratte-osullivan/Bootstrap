@@ -1,0 +1,237 @@
+.icone {
+    text-align: center;
+}
+
+.navbar-collapse {
+    margin-left: 15%;
+}
+
+nav>div>form>input {
+    background-image: url("images/search.svg");
+    background-repeat: no-repeat;
+    background-position: 3% 50%;
+}
+
+.inv {
+    float: right;
+    text-decoration: none;
+    padding: 5px 8px 5px 8px;
+    color: grey;
+    background-color: #ffff;
+    margin-top: -5px;
+    border-radius: 5px;
+}
+
+ol a {
+    color: grey;
+}
+
+ol a:hover {
+    text-decoration: none;
+    color: grey;
+}
+
+.center {
+    text-align: center;
+}
+
+.bot {
+    text-align: center;
+}
+
+.bot a {
+    color: grey;
+    margin: 3%;
+}
+
+.bot a:hover {
+    color: #0d61bf;
+}
+
+.font {
+    font-size: 15px;
+}
+
+.inv:hover {
+    color: grey;
+    padding: 5px 8px 5px 8px;
+    background-color: #f3f2ee;
+    text-decoration: none;
+}
+
+svg {
+    width: 50px;
+    margin-right: 2%;
+    color: #0d61bf;
+}
+
+li {
+    list-style: none;
+    margin: 0% 1% 0% 1%;
+}
+
+ol {
+    padding: 0;
+}
+
+.menu {
+    margin-top: 1%;
+    background-color: #ffff;
+    border-radius: 15px;
+    max-height: 600px;
+}
+
+.menu>.border-bottom {
+    padding: 12px 0px 0px 25px;
+}
+
+body {
+    background-color: #f3f2ee;
+}
+
+.top {
+    background-color: #ffff;
+}
+
+li>i {
+    margin-right: 5%;
+}
+
+.invitation,
+.ajout,
+.suggestion,
+.compagnie {
+    background-color: #ffff;
+    border-radius: 15px;
+    margin: 1.5% 0% 0% 0%;
+    padding: 2%;
+}
+
+.ajout .row {
+    margin: 2px;
+}
+
+.ajout {
+    padding: 40px 0px 35px 30px;
+}
+
+.croix {
+    color: grey;
+    float: right;
+}
+
+.texte {
+    font-size: 13px;
+    color: grey;
+    margin: 10px 0px 10px 0px;
+}
+
+.mail {
+    margin: 0px 0px 15px 0px;
+}
+
+.boutton2 {
+    border-style: solid;
+    border-width: 2px;
+    text-align: center;
+    border-radius: 15px;
+    padding: 5px 15px 5px 15px;
+    transition: 200ms;
+}
+
+.boutton3:hover,
+.boutton2:hover {
+    border-style: inset;
+    background-color: #83b5ee;
+    text-decoration: none;
+    transition: 200ms;
+}
+
+.top2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.top2 a {
+    font-size: 13px;
+    color: grey;
+}
+
+img {
+    border-radius: 50%;
+    width: 40%;
+}
+
+.border {
+    border-radius: 8px;
+}
+
+.top3 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.top3 .croix {
+    margin: 0% -6% 0% 0%;
+}
+
+
+.row .col-lg-4 {
+    padding: 13px 0px 13px 15px;
+
+    background-image: url("images/fond.jpg");
+    background-position: 52% 172%;
+    background-repeat: no-repeat;
+
+}
+
+
+
+.choix {
+    margin: 15px 0px 0px 0px;
+}
+
+.boutton3 {
+    border-style: solid;
+    border-width: 2px;
+    text-align: center;
+    border-radius: 15px;
+    padding: 5px 15px 5px 15px;
+    transition: 200ms;
+    color: #0d61bf;
+    margin-top: 5%;
+}
+
+.description {
+    font-size: 14px;
+    color: grey;
+    padding: 0;
+}
+
+.top4 {
+    display: flex;
+    justify-content: end;
+}
+
+.choix2 {
+    padding: 13px 0px 13px 15px;
+    background-image: url("images/fond.jpg");
+    background-position: 52% 138%;
+    background-repeat: no-repeat;
+    margin-top: 3%;
+}
+
+.nom2 {
+    text-align: center;
+}
+
+.texte2 {
+    font-size: 13px;
+    color: grey;
+    margin: 10px 0px 10px 0px;
+    text-align: center;
+}
+
+.img {
+    border-radius: 0%;
+}
